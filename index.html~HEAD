@@ -1,0 +1,57 @@
+<!doctype html>
+
+<head>
+    
+    <title> Gabby Whiten Designs </title>
+    
+    <!-- Required meta tags -->
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <!-- SEO meta tag information -->
+    
+    <meta name="author" content="gabby whiten">
+    <meta name="description" content="New York City based lifestyle and portrait photographer website">
+    <meta name="keywords" content="gabby, whiten, gabby whiten, photographer, New York City, portrait, lifestyle, graphic designer">
+    
+    <!-- Boostrap CSS Styles -->
+    
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    
+    <!-- My Custom Styles -->
+    
+    <link href="css/fontawesome-all.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/mainstyles.css">
+    <link href="https://fonts.googleapis.com/css?family=Fredericka+the+Great|News+Cycle|Prata|Roboto:300,300i" rel="stylesheet">
+        
+</head>
+
+<body>
+    
+<!-- Required Javascript Code -->
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+
+<div class="row">
+        
+        <div class="card">
+           
+                <img class="card-img rounded-0" src="images/landing/edit-a-2.jpg" alt="ashley portrait example" class="img-fluid" height="100%">
+            
+                <div class="card-img-overlay d-flex landing">
+                        
+                        <div class="my-auto mx-auto text-center">
+                        <h1 class="card-title landingtext">Gabby Whiten Photography</h1>
+                        <a href="/home.html" class="mybtn btn-link">enter site</a>
+                        </div>
+            
+                </div>
+        
+        </div>
+                
+</div>
+    
+</body>
